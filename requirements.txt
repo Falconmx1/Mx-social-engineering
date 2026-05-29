@@ -1,7 +1,9 @@
 requests
-BeautifulSoup4
+beautifulsoup4
 phonenumbers
 holehe
 sherlock
 tldextract
 colorama
+twint
+instalooter
