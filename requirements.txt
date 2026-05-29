@@ -1,0 +1,7 @@
+requests
+BeautifulSoup4
+phonenumbers
+holehe
+sherlock
+tldextract
+colorama
