@@ -2,8 +2,6 @@ requests
 beautifulsoup4
 phonenumbers
 holehe
-sherlock
-tldextract
-colorama
+sherlock-project
 twint
-instalooter
+colorama
